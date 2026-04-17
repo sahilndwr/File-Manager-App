@@ -1,0 +1,2 @@
+Sample file 2
+Another sample file used to demonstrate file operations.
